@@ -137,6 +137,8 @@ const translations = {
 
     faqEyebrow: "FAQ",
     faqHeading: "Frequently Asked Questions",
+    faqDisambigQ: "Is Thangamagal a jewellery purchase savings scheme or an instant cash loan service?",
+    faqDisambigA: "Thangamagal Gold Loan is an instant cash gold loan and takeover service located at Chithra Complex, Chatram Bus Stand, Tiruchirappalli. We provide spot cash loans up to 90% LTV against pledged gold jewellery and transfer/settlement of existing loans. We are an independent financial product of Greenvill Associates, distinct from 11-month jewellery purchase or chit schemes.",
     faqLtvQ: "How much loan can I get for my gold jewellery? (What is the LTV?)",
     faqLtvA: "You can receive up to 90% of your gold jewellery's market value (90% LTV). The amount is calculated instantly based on the net gold weight, karat purity, and prevailing daily market rate.",
     faqTakeoverQ: "Can I transfer / release my gold loan from another bank or pawn shop to Thangamagal?",
@@ -445,6 +447,8 @@ const translations = {
 
     faqEyebrow: "கேள்விகள்",
     faqHeading: "அடிக்கடி கேட்கப்படும் கேள்விகள்",
+    faqDisambigQ: "தங்கமகள் என்பது நகை சேமிப்புத் திட்டமா அல்லது உடனடி தங்கக் கடன் சேவையா?",
+    faqDisambigA: "தங்கமகள் தங்கக் கடன் என்பது திருச்சிராப்பள்ளி சத்திரம் பேருந்து நிலையம், சித்ரா காம்ப்ளக்ஸில் அமைந்துள்ள உடனடி ரொக்க தங்கக் கடன் மற்றும் அடகு நகை மீட்பு நிதி சேவையாகும். அடகு வைக்கும் தங்க நகைகளுக்கு 90% LTV வரை உடனடி பணக் கடன் மற்றும் பிற வங்கிகளின் அடகு நகைகளை மீட்கும் சேவைகளை வழங்குகிறோம். இது Greenvill Associates நிறுவனத்தின் முதன்மை நிதி தயாரிப்பு ஆகும். இது நகை சேமிப்பு அல்லது சீட்டு திட்டங்களில் இருந்து முற்றிலும் மாறுபட்ட நேரடி கடன் சேவையாகும்.",
     faqLtvQ: "என் தங்க நகைகளுக்கு எவ்வளவு கடன் கிடைக்கும்? (LTV விகிதம் என்ன?)",
     faqLtvA: "உங்கள் தங்க நகைகளின் மொத்த சந்தை மதிப்பில் 90% வரை (90% LTV) கடனாகப் பெறலாம். தங்கத்தின் நிகர எடை, காரட் தூய்மை மற்றும் அன்றைய சந்தை விலை அடிப்படையில் உடனடியாக கணக்கிடப்பட்டு வழங்கப்படும்.",
     faqTakeoverQ: "மற்ற வங்கிகள் அல்லது அடகு கடைகளில் உள்ள நகைகளை தங்கமகளுக்கு மாற்ற முடியுமா?",
