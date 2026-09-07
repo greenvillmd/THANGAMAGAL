@@ -1175,6 +1175,146 @@ html[lang="ta"] .hero-tagline { font-family: var(--font-tamil-body); letter-spac
 }
 
 /* ============================================================
+   HEADER PHONE & FLOATING QUICK ACTIONS
+   ============================================================ */
+.header-phone-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  border-radius: 9999px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  border: 1px solid rgba(201, 146, 36, 0.4);
+  background: rgba(201, 146, 36, 0.08);
+  color: var(--maroon);
+  text-decoration: none;
+  transition: all 0.25s ease;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+.header-phone-btn:hover {
+  background: rgba(201, 146, 36, 0.18);
+  border-color: var(--gold);
+  color: var(--maroon-deep);
+}
+.header-phone-btn svg {
+  width: 14px;
+  height: 14px;
+  color: var(--gold);
+}
+
+/* Mobile Floating Bar */
+.mobile-bottom-bar {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  background: rgba(255, 255, 255, 0.96);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-top: 1px solid rgba(201, 146, 36, 0.35);
+  box-shadow: 0 -4px 20px rgba(79, 0, 16, 0.12);
+  padding: 8px 12px;
+  gap: 8px;
+  align-items: center;
+  justify-content: space-around;
+}
+.mobile-bottom-btn {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 8px;
+  border-radius: 10px;
+  font-size: 11px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  border: none;
+  line-height: 1.2;
+}
+.mobile-bottom-btn .btn-icon {
+  font-size: 16px;
+  margin-bottom: 2px;
+}
+.mobile-bottom-btn.btn-call {
+  background: #f3f4f6;
+  color: #1f2937;
+}
+.mobile-bottom-btn.btn-call:active {
+  background: #e5e7eb;
+}
+.mobile-bottom-btn.btn-enquire {
+  background: rgba(201, 146, 36, 0.18);
+  border: 1px solid rgba(201, 146, 36, 0.4);
+  color: #1c1917;
+}
+.mobile-bottom-btn.btn-enquire:active {
+  background: rgba(201, 146, 36, 0.3);
+}
+.mobile-bottom-btn.btn-direct {
+  background: var(--maroon);
+  color: #ffffff;
+}
+.mobile-bottom-btn.btn-direct:active {
+  background: var(--maroon-deep);
+}
+
+.footer-phone-badge {
+  margin-top: 10px;
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.85);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.footer-phone-badge a {
+  color: #ffffff;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.footer-phone-badge a:hover {
+  color: var(--gold-light);
+}
+
+.footer-disclaimer-box {
+  margin-top: 32px;
+  padding-top: 24px;
+  border-top: 1px solid rgba(201, 146, 36, 0.18);
+  font-size: 0.72rem;
+  line-height: 1.7;
+  color: rgba(255, 255, 255, 0.6);
+}
+.footer-disclaimer-box strong {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.footer-brand-link {
+  font-weight: 700;
+  color: var(--gold);
+  text-decoration: none;
+  transition: color 0.2s;
+  margin-left: 4px;
+}
+.footer-brand-link:hover {
+  color: var(--gold-light);
+  text-decoration: underline;
+}
+
+@media (max-width: 640px) {
+  .mobile-bottom-bar {
+    display: flex;
+  }
+  body {
+    padding-bottom: 60px;
+  }
+}
+
+/* ============================================================
    LEGAL PAGES
    ============================================================ */
 .legal-hero { padding: 60px 0 20px; text-align: center; }
@@ -1185,4 +1325,6 @@ html[lang="ta"] .hero-tagline { font-family: var(--font-tamil-body); letter-spac
 .legal-body p, .legal-body li { color: var(--muted); font-size: 0.98rem; line-height: 1.8; }
 .legal-body ul { padding-left: 22px; }
 .legal-updated { color: var(--muted); font-size: 0.85rem; }
+
+
 
