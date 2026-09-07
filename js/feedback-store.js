@@ -21,7 +21,7 @@ const SEED_FEEDBACKS = [
     locationTa: 'தில்லை நகர், திருச்சி',
     rating: 5,
     date: '2026-08-10',
-    comment: 'Very transparent and quick gold evaluation. I received the loan within 10 minutes at Chithra Complex. The staff is polite and respectful.',
+    comment: 'Very transparent and quick gold evaluation. I received the loan within 10 minutes at Chitra Complex. The staff is polite and respectful.',
     commentTa: 'மிகவும் வெளிப்படையான மற்றும் விரைவான தங்க மதிப்பீடு. சித்ரா காம்ப்ளக்ஸில் 10 நிமிடங்களில் கடன் கிடைத்தது. ஊழியர்கள் மிகவும் மரியாதையாக நடத்தினார்கள்.',
     status: 'approved',
     verified: true,

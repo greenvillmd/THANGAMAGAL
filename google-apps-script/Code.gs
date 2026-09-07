@@ -173,7 +173,8 @@ Customer Details:
 • Message: ${message || 'No additional message'}
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Branch: Chithra Complex, Chatram Bus Stand, Tiruchirappalli
+Branch: G-16, Ground Floor, Chitra Complex, Chatram Bus Stand, Trichy – 620002
+Phone: +91 81100 50466
 Powered by Greenvill Associates
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 `;

@@ -6,7 +6,7 @@
 const translations = {
   en: {
     metaTitle: "Thangamagal Gold Loan | Up to 90% LTV Gold Loan in Trichy",
-    metaDescription: "Thangamagal Gold Loan by Greenvill Associates at Chithra Complex, Chatram Bus Stand, Tiruchirappalli. Get up to 90% LTV loan against gold jewellery with instant cash and safe locker custody.",
+    metaDescription: "Thangamagal Gold Loan by Greenvill Associates at G-16, Ground Floor, Chitra Complex, Chatram Bus Stand, Trichy - 620002. Call +91 81100 50466. Get up to 90% LTV loan against gold jewellery with instant cash and safe locker custody.",
     skipLink: "Skip to main content",
     navHome: "Home",
     navAbout: "About",
@@ -40,7 +40,7 @@ const translations = {
 
     aboutEyebrow: "About Thangamagal",
     aboutHeading: "A gold-loan service built on trust",
-    aboutP1: "Thangamagal Gold Loan is a premier financial product by Greenvill Associates, located at Chithra Complex, Chatram Bus Stand, Tiruchirappalli. We provide maximum loan value up to 90% LTV on your gold ornaments with complete transparency and bank-grade security.",
+    aboutP1: "Thangamagal Gold Loan is a premier financial product by Greenvill Associates, located at G-16, Ground Floor, Chitra Complex, Chatram Bus Stand, Trichy - 620002. We provide maximum loan value up to 90% LTV on your gold ornaments with complete transparency and bank-grade security.",
     aboutP2: "Every customer who walks in is treated with respect and clarity \u2014 from evaluation to disbursement. Our team is on hand to guide you through the process and answer any questions along the way.",
     aboutList1: "Transparent, easy-to-understand process",
     aboutList2: "Secure handling & insured vault storage",
@@ -77,7 +77,7 @@ const translations = {
     howEyebrow: "The Process",
     howHeading: "A Simple 4-Step Process",
     how1Title: "Visit Our Branch",
-    how1Desc: "Bring your gold jewellery to our branch at Chithra Complex, Chatram Bus Stand, Trichy.",
+    how1Desc: "Bring your gold jewellery to our branch at G-16, Ground Floor, Chitra Complex, Chatram Bus Stand, Trichy.",
     how2Title: "Gold Evaluation",
     how2Desc: "Our specialists evaluate the weight and purity of your gold openly in your presence.",
     how3Title: "Up to 90% LTV Offer",
@@ -109,8 +109,8 @@ const translations = {
     locEyebrow: "Visit Us",
     locHeading: "Find Thangamagal",
     locName: "Thangamagal Gold Loan",
-    locAddrLine1: "Chithra Complex, Chatram Bus Stand,",
-    locAddrLine2: "Tiruchirappalli, Tamil Nadu",
+    locAddrLine1: "G-16, Ground Floor, Chitra Complex,",
+    locAddrLine2: "Chatram Bus Stand, Trichy – 620002",
     ctaDirections: "Get Directions",
     openInGoogleMaps: "View on Google Maps",
     branchTimingsTitle: "Branch Working Hours",
@@ -125,7 +125,7 @@ const translations = {
     contactEyebrow: "Contact Us",
     contactHeading: "Get in Touch",
     contactSub: "Reach out to us and our team will be glad to assist you.",
-    callNow: "Call Now",
+    callNow: "Call: +91 81100 50466",
     callDesc: "Speak directly with our branch team",
     getDirections: "Get Directions",
     getDirectionsDesc: "Find us near Chatram Bus Stand",
@@ -138,13 +138,13 @@ const translations = {
     faqEyebrow: "FAQ",
     faqHeading: "Frequently Asked Questions",
     faqDisambigQ: "Is Thangamagal a jewellery purchase savings scheme or an instant cash loan service?",
-    faqDisambigA: "Thangamagal Gold Loan is an instant cash gold loan and takeover service located at Chithra Complex, Chatram Bus Stand, Tiruchirappalli. We provide spot cash loans up to 90% LTV against pledged gold jewellery and transfer/settlement of existing loans. We are an independent financial product of Greenvill Associates, distinct from 11-month jewellery purchase or chit schemes.",
+    faqDisambigA: "Thangamagal Gold Loan is an instant cash gold loan and takeover service located at G-16, Ground Floor, Chitra Complex, Chatram Bus Stand, Trichy - 620002. We provide spot cash loans up to 90% LTV against pledged gold jewellery and transfer/settlement of existing loans. We are an independent financial product of Greenvill Associates, distinct from 11-month jewellery purchase or chit schemes.",
     faqLtvQ: "How much loan can I get for my gold jewellery? (What is the LTV?)",
     faqLtvA: "You can receive up to 90% of your gold jewellery's market value (90% LTV). The amount is calculated instantly based on the net gold weight, karat purity, and prevailing daily market rate.",
     faqTakeoverQ: "Can I transfer / release my gold loan from another bank or pawn shop to Thangamagal?",
     faqTakeoverA: "Yes, absolutely! We provide complete Gold Loan Takeover assistance. We arrange funds to clear your outstanding dues at your current bank or financier, safely release your jewellery, re-evaluate it at up to 90% LTV, and pay you the surplus cash balance immediately.",
     faqTimingsQ: "What are your branch working hours and location?",
-    faqTimingsA: "We are open Monday to Saturday from 9:30 AM to 7:30 PM, and on Sundays from 10:00 AM to 2:00 PM (by prior appointment). We are located at Chithra Complex, Chatram Bus Stand, Tiruchirappalli.",
+    faqTimingsA: "We are open Monday to Saturday from 9:30 AM to 7:30 PM, and on Sundays from 10:00 AM to 2:00 PM (by prior appointment). We are located at G-16, Ground Floor, Chitra Complex, Chatram Bus Stand, Trichy – 620002. Call: +91 81100 50466.",
     faq1Q: "What is a gold loan?",
     faq1A: "A gold loan is finance obtained against gold jewellery pledged as security. The jewellery is evaluated and held safely in high-security vaults until the loan is repaid.",
     faq2Q: "What documents are required?",
@@ -154,7 +154,7 @@ const translations = {
     faq4Q: "How does repayment work?",
     faq4A: "Repayment terms, flexible tenure schedules, and interest rates are explained clearly by our team before disbursement.",
     faq5Q: "Where is Thangamagal located?",
-    faq5A: "We are located at Chithra Complex, Chatram Bus Stand, Tiruchirappalli, Tamil Nadu.",
+    faq5A: "We are located at G-16, Ground Floor, Chitra Complex, Chatram Bus Stand, Trichy – 620002, Tamil Nadu. Phone: +91 81100 50466.",
 
     footerLinksHeading: "Quick Links",
     footerLegalHeading: "Legal",
@@ -176,7 +176,7 @@ const translations = {
       <h2>Information We Collect</h2>\
       <p>This website provides information about our gold loan services. Any information submitted via our contact enquiry form is used solely to respond to your request.</p>\
       <h2>Contact &amp; Enquiry Information</h2>\
-      <p>If you contact us directly by phone, enquiry form, or in person at our branch, any information you choose to share (such as your name or phone number) is used solely to respond to your enquiry and assist you with your gold loan needs.</p>\
+      <p>If you contact us directly by phone (+91 81100 50466), enquiry form, or in person at our branch (G-16, Ground Floor, Chitra Complex, Chatram Bus Stand, Trichy – 620002), any information you choose to share (such as your name or phone number) is used solely to respond to your enquiry and assist you with your gold loan needs.</p>\
       <h2>Cookies &amp; Local Storage</h2>\
       <p>This website uses your browser's local storage only to remember your selected language (English or Tamil) so it persists as you navigate between pages. No tracking cookies are used.</p>\
       <h2>Analytics</h2>\
@@ -192,7 +192,7 @@ const translations = {
       <h2>Your Rights</h2>\
       <p>You may contact us at any time to ask what information, if any, we hold about you, or to request that it be corrected or removed.</p>\
       <h2>Contact Information</h2>\
-      <p>For any privacy-related questions, please reach out to us using the contact details on our Contact page.</p>\
+      <p>For any privacy-related questions, please reach out to us by phone at +91 81100 50466 or at our branch (G-16, Ground Floor, Chitra Complex, Chatram Bus Stand, Trichy – 620002).</p>\
       <h2>Policy Updates</h2>\
       <p>This policy may be updated from time to time as the website evolves. The date at the top of this page reflects the most recent update.</p>",
 
@@ -259,12 +259,13 @@ const translations = {
         <h3>Grievance Redressal Officer (Customer Care Desk)</h3>\
         <p><strong>Designation:</strong> Branch Grievance Redressal Officer</p>\
         <p><strong>Office:</strong> Thangamagal Gold Loan (Greenvill Associates)</p>\
-        <p><strong>Address:</strong> Chithra Complex, Chatram Bus Stand, Tiruchirappalli, Tamil Nadu – 620002</p>\
+        <p><strong>Address:</strong> G-16, Ground Floor, Chitra Complex, Chatram Bus Stand, Trichy, Tamil Nadu – 620002</p>\
+        <p><strong>Phone:</strong> +91 81100 50466</p>\
         <p><strong>Operating Hours:</strong> Monday – Saturday: 9:30 AM – 7:30 PM</p>\
         <p><strong>Resolution Turnaround Time (TAT):</strong> 7 to 14 business days from date of lodging grievance.</p>\
       </div>\
       <h2>9. Policy Modifications &amp; Governance</h2>\
-      <p>These terms and fair practice codes are periodically reviewed to reflect regulatory amendments and business updates. For specific loan terms, visit our branch at Chithra Complex, Chatram Bus Stand, Tiruchirappalli.</p>",
+      <p>These terms and fair practice codes are periodically reviewed to reflect regulatory amendments and business updates. For specific loan terms, visit our branch at G-16, Ground Floor, Chitra Complex, Chatram Bus Stand, Trichy – 620002 or call +91 81100 50466.</p>",
 
     navReviews: "Reviews",
     reviewsEyebrow: "Customer Feedback",
@@ -316,7 +317,7 @@ const translations = {
 
   ta: {
     metaTitle: "தங்கமகள் தங்கக் கடன் | திருச்சியில் 90% வரை தங்கக் கடன்",
-    metaDescription: "Greenvill Associates-ன் முதன்மை நிதித் தயாரிப்பான தங்கமகள் தங்கக் கடன் — சித்ரா காம்ப்ளக்ஸ், சத்திரம் பேருந்து நிலையம், திருச்சிராப்பள்ளியில் உங்கள் தங்க நகைகளின் மதிப்பில் 90% வரை உடனடி கடன் மற்றும் பாதுகாப்பான பெட்டக வசதி.",
+    metaDescription: "Greenvill Associates-ன் முதன்மை நிதித் தயாரிப்பான தங்கமகள் தங்கக் கடன் — G-16, தரைத்தளம், சித்ரா காம்ப்ளக்ஸ், சத்திரம் பேருந்து நிலையம், திருச்சி - 620002-ல் உங்கள் தங்க நகைகளின் மதிப்பில் 90% வரை உடனடி கடன் மற்றும் பாதுகாப்பான பெட்டக வசதி. தொடர்பு: +91 81100 50466.",
     skipLink: "முதன்மை உள்ளடக்கத்திற்குச் செல்ல",
     navHome: "முகப்பு",
     navAbout: "பற்றி",
@@ -350,7 +351,7 @@ const translations = {
 
     aboutEyebrow: "தங்கமகள் பற்றி",
     aboutHeading: "நம்பிக்கையின் அடிப்படையில் அமைந்த தங்கக் கடன் சேவை",
-    aboutP1: "தங்கமகள் தங்கக் கடன் என்பது Greenvill Associates நிறுவனத்தின் முதன்மை நிதித் தயாரிப்பாகும் (A Product of Greenvill). சித்ரா காம்ப்ளக்ஸ், சத்திரம் பேருந்து நிலையம், திருச்சிராப்பள்ளியில் அமைந்துள்ள எங்கள் கிளை மூலம் உங்கள் தங்க நகைகளுக்கு 90% LTV வரை அதிகபட்ச கடன் தொகையை வெளிப்படையான மற்றும் பாதுகாப்பான முறையில் வழங்குகிறோம்.",
+    aboutP1: "தங்கமகள் தங்கக் கடன் என்பது Greenvill Associates நிறுவனத்தின் முதன்மை நிதித் தயாரிப்பாகும் (A Product of Greenvill). G-16, தரைத்தளம், சித்ரா காம்ப்ளக்ஸ், சத்திரம் பேருந்து நிலையம், திருச்சி - 620002-ல் அமைந்துள்ள எங்கள் கிளை மூலம் உங்கள் தங்க நகைகளுக்கு 90% LTV வரை அதிகபட்ச கடன் தொகையை வெளிப்படையான மற்றும் பாதுகாப்பான முறையில் வழங்குகிறோம்.",
     aboutP2: "உள்ளே வரும் ஒவ்வொரு வாடிக்கையாளரும் மதிப்பீடு முதல் பண வழங்கல் வரை மரியாதையுடனும் தெளிவுடனும் நடத்தப்படுகிறார்கள். எங்கள் குழு செயல்முறை முழுவதும் உங்களுக்கு வழிகாட்டவும் கேள்விகளுக்கு பதிலளிக்கவும் தயாராக உள்ளது.",
     aboutList1: "வெளிப்படையான, எளிதில் புரிந்துகொள்ளக்கூடிய செயல்முறை",
     aboutList2: "பாதுகாப்பான கையாளுதல் & காப்பீட்டு பெட்டக வசதி",
@@ -387,7 +388,7 @@ const translations = {
     howEyebrow: "செயல்முறை",
     howHeading: "இது எப்படி வேலை செய்கிறது",
     how1Title: "எங்களை அணுகுங்கள்",
-    how1Desc: "உங்கள் தங்க நகைகளுடன் சித்ரா காம்ப்ளக்ஸ், சத்திரம் பேருந்து நிலையத்தில் உள்ள எங்கள் கிளைக்கு வாருங்கள்.",
+    how1Desc: "உங்கள் தங்க நகைகளுடன் G-16, தரைத்தளம், சித்ரா காம்ப்ளக்ஸ், சத்திரம் பேருந்து நிலையத்தில் உள்ள எங்கள் கிளைக்கு வாருங்கள்.",
     how2Title: "தங்க மதிப்பீடு",
     how2Desc: "எங்கள் குழு உங்கள் முன்னிலையிலேயே தங்கத்தின் எடை மற்றும் தூய்மையை வெளிப்படையாக மதிப்பீடு செய்கிறது.",
     how3Title: "90% LTV வரை கடன் வாய்ப்பு",
@@ -419,8 +420,8 @@ const translations = {
     locEyebrow: "எங்களை பார்வையிடுங்கள்",
     locHeading: "தங்கமகளை பார்வையிடுங்கள்",
     locName: "தங்கமகள் தங்கக் கடன்",
-    locAddrLine1: "சித்ரா காம்ப்ளக்ஸ், சத்திரம் பேருந்து நிலையம்,",
-    locAddrLine2: "திருச்சிராப்பள்ளி, தமிழ்நாடு",
+    locAddrLine1: "G-16, தரைத்தளம், சித்ரா காம்ப்ளக்ஸ்,",
+    locAddrLine2: "சத்திரம் பேருந்து நிலையம், திருச்சி – 620002",
     ctaDirections: "வழி பெறுங்கள்",
     openInGoogleMaps: "Google Maps-ல் பார்க்க",
     branchTimingsTitle: "கடை இயங்கும் நேரம்",
@@ -435,7 +436,7 @@ const translations = {
     contactEyebrow: "தொடர்பு கொள்ளுங்கள்",
     contactHeading: "எங்களை தொடர்பு கொள்ளுங்கள்",
     contactSub: "தொடர்பு கொள்ளுங்கள், எங்கள் குழு உங்களுக்கு உதவ மகிழ்ச்சியடையும்.",
-    callNow: "இப்போது அழைக்கவும்",
+    callNow: "அழைக்க: +91 81100 50466",
     callDesc: "எங்கள் குழுவுடன் நேரடியாக பேசுங்கள்",
     getDirections: "வழி பெறுங்கள்",
     getDirectionsDesc: "சத்திரம் பேருந்து நிலையம் அருகே எங்களை கண்டறியவும்",
@@ -448,13 +449,13 @@ const translations = {
     faqEyebrow: "கேள்விகள்",
     faqHeading: "அடிக்கடி கேட்கப்படும் கேள்விகள்",
     faqDisambigQ: "தங்கமகள் என்பது நகை சேமிப்புத் திட்டமா அல்லது உடனடி தங்கக் கடன் சேவையா?",
-    faqDisambigA: "தங்கமகள் தங்கக் கடன் என்பது திருச்சிராப்பள்ளி சத்திரம் பேருந்து நிலையம், சித்ரா காம்ப்ளக்ஸில் அமைந்துள்ள உடனடி ரொக்க தங்கக் கடன் மற்றும் அடகு நகை மீட்பு நிதி சேவையாகும். அடகு வைக்கும் தங்க நகைகளுக்கு 90% LTV வரை உடனடி பணக் கடன் மற்றும் பிற வங்கிகளின் அடகு நகைகளை மீட்கும் சேவைகளை வழங்குகிறோம். இது Greenvill Associates நிறுவனத்தின் முதன்மை நிதி தயாரிப்பு ஆகும். இது நகை சேமிப்பு அல்லது சீட்டு திட்டங்களில் இருந்து முற்றிலும் மாறுபட்ட நேரடி கடன் சேவையாகும்.",
+    faqDisambigA: "தங்கமகள் தங்கக் கடன் என்பது திருச்சி சத்திரம் பேருந்து நிலையம், G-16, தரைத்தளம், சித்ரா காம்ப்ளக்ஸில் அமைந்துள்ள உடனடி ரொக்க தங்கக் கடன் மற்றும் அட果 நகை மீட்பு நிதி சேவையாகும். அடகு வைக்கும் தங்க நகைகளுக்கு 90% LTV வரை உடனடி பணக் கடன் மற்றும் பிற வங்கிகளின் அடகு நகைகளை மீட்கும் சேவைகளை வழங்குகிறோம். இது Greenvill Associates நிறுவனத்தின் முதன்மை நிதி தயாரிப்பு ஆகும். இது நகை சேமிப்பு அல்லது சீட்டு திட்டங்களில் இருந்து முற்றிலும் மாறுபட்ட நேரடி கடன் சேவையாகும்.",
     faqLtvQ: "என் தங்க நகைகளுக்கு எவ்வளவு கடன் கிடைக்கும்? (LTV விகிதம் என்ன?)",
     faqLtvA: "உங்கள் தங்க நகைகளின் மொத்த சந்தை மதிப்பில் 90% வரை (90% LTV) கடனாகப் பெறலாம். தங்கத்தின் நிகர எடை, காரட் தூய்மை மற்றும் அன்றைய சந்தை விலை அடிப்படையில் உடனடியாக கணக்கிடப்பட்டு வழங்கப்படும்.",
     faqTakeoverQ: "மற்ற வங்கிகள் அல்லது அடகு கடைகளில் உள்ள நகைகளை தங்கமகளுக்கு மாற்ற முடியுமா?",
     faqTakeoverA: "ஆம், நிச்சயமாக! நாங்கள் முழுமையான அடகு நகை மீட்பு (Takeover) சேவையை வழங்குகிறோம். உங்கள் தற்போதைய கடன் தொகையை செலுத்தி நகைகளை மீட்டு, 90% LTV அதிகபட்ச மதிப்பில் கணக்கிட்டு மீதி கூடுதல் ரொக்கத்தை உடனே வழங்குகிறோம்.",
     faqTimingsQ: "கடை இயங்கும் நேரம் மற்றும் முகவரி என்ன?",
-    faqTimingsA: "எங்கள் கிளை திங்கள் முதல் சனிக்கிழமை வரை காலை 9:30 மணி முதல் இரவு 7:30 மணி வரையிலும், ஞாயிற்றுக்கிழமைகளில் காலை 10:00 மணி முதல் பிற்பகல் 2:00 மணி வரையிலும் (முன் அனுமதியுடன்) இயங்குகிறது. முகவரி: சித்ரா காம்ப்ளக்ஸ், சத்திரம் பேருந்து நிலையம், திருச்சி.",
+    faqTimingsA: "எங்கள் கிளை திங்கள் முதல் சனிக்கிழமை வரை காலை 9:30 மணி முதல் இரவு 7:30 மணி வரையிலும், ஞாயிற்றுக்கிழமைகளில் காலை 10:00 மணி முதல் பிற்பகல் 2:00 மணி வரையிலும் (முன் அனுமதியுடன்) இயங்குகிறது. முகவரி: G-16, தரைத்தளம், சித்ரா காம்ப்ளக்ஸ், சத்திரம் பேருந்து நிலையம், திருச்சி – 620002. தொலைபேசி: +91 81100 50466.",
     faq1Q: "தங்கக் கடன் என்றால் என்ன?",
     faq1A: "தங்கக் கடன் என்பது பாதுகாப்பாக அடகு வைக்கப்பட்ட தங்க நகைகளுக்கு எதிராக பெறப்படும் நிதியாகும். நகைகள் மதிப்பீடு செய்யப்பட்டு கடன் திருப்பிச் செலுத்தப்படும் வரை உயர்தர பெட்டகங்களில் பாதுகாப்பாக வைக்கப்படும்.",
     faq2Q: "என்னென்ன ஆவணங்கள் தேவை?",
@@ -464,7 +465,7 @@ const translations = {
     faq4Q: "திருப்பிச் செலுத்தும் முறை எப்படி?",
     faq4A: "கடன் வழங்கும் போதே திருப்பிச் செலுத்தும் எளிய முறைகள், தவணை வசதிகள் மற்றும் வட்டி விவரங்கள் எங்கள் குழுவால் தெளிவாக விளக்கப்படும்.",
     faq5Q: "தங்கமகள் எங்கு அமைந்துள்ளது?",
-    faq5A: "நாங்கள் சித்ரா காம்ப்ளக்ஸ், சத்திரம் பேருந்து நிலையம், திருச்சிராப்பள்ளி, தமிழ்நாட்டில் அமைந்துள்ளோம்.",
+    faq5A: "நாங்கள் G-16, தரைத்தளம், சித்ரா காம்ப்ளக்ஸ், சத்திரம் பேருந்து நிலையம், திருச்சி – 620002, தமிழ்நாட்டில் அமைந்துள்ளோம். தொடர்பு: +91 81100 50466.",
 
     footerLinksHeading: "விரைவு இணைப்புகள்",
     footerLegalHeading: "சட்ட விதிமுறைகள்",
@@ -569,12 +570,13 @@ const translations = {
         <h3>குறைதீர்க்கும் அதிகாரி (Grievance Redressal Officer)</h3>\
         <p><strong>பதவி:</strong> கிளை குறைதீர்க்கும் அதிகாரி</p>\
         <p><strong>நிறுவனம்:</strong> தங்கமகள் தங்கக் கடன் (Greenvill Associates)</p>\
-        <p><strong>முகவரி:</strong> சித்ரா காம்ப்ளக்ஸ், சத்திரம் பேருந்து நிலையம், திருச்சிராப்பள்ளி, தமிழ்நாடு – 620002</p>\
+        <p><strong>முகவரி:</strong> G-16, தரைத்தளம், சித்ரா காம்ப்ளக்ஸ், சத்திரம் பேருந்து நிலையம், திருச்சி, தமிழ்நாடு – 620002</p>\
+        <p><strong>தொலைபேசி:</strong> +91 81100 50466</p>\
         <p><strong>பணி நேரம்:</strong> திங்கள் – சனி: காலை 9:30 முதல் இரவு 7:30 வரை</p>\
         <p><strong>தீர்வு கால அவகாசம் (TAT):</strong> புகார் பதிவு செய்த நாளிலிருந்து 7 முதல் 14 வணிக நாட்களுக்குள்.</p>\
       </div>\
       <h2>9. கொள்கை மாற்றங்கள்</h2>\
-      <p>இந்த விதிமுறைகள் மற்றும் கொள்கைகள் அவ்வப்போது அரசு விதிகளுக்கு ஏற்ப புதுப்பிக்கப்படலாம். நேரடி கடன் விதிமுறைகளுக்கு சித்ரா காம்ப்ளக்ஸ், சத்திரம் பேருந்து நிலையத்தில் உள்ள எங்கள் கிளையை அணுகவும்.</p>",
+      <p>இந்த விதிமுறைகள் மற்றும் கொள்கைகள் அவ்வப்போது அரசு விதிகளுக்கு ஏற்ப புதுப்பிக்கப்படலாம். நேரடி கடன் விதிமுறைகளுக்கு G-16, தரைத்தளம், சித்ரா காம்ப்ளக்ஸ், சத்திரம் பேருந்து நிலையம், திருச்சி – 620002-ல் உள்ள எங்கள் கிளையை அணுகவும் அல்லது +91 81100 50466 என்ற எண்ணில் அழைக்கவும்.</p>",
 
     navReviews: "கருத்துக்கள்",
     reviewsEyebrow: "வாடிக்கையாளர் கருத்துக்கள்",
